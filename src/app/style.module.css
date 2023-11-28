@@ -1,0 +1,15 @@
+.homeBackground{
+  background-image: url(../../public/img/imghome.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.cardHome{
+  width: 800px;
+  background-color: rgba(255, 251, 251, 0.736);
+  padding: 20px;
+  border-radius: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

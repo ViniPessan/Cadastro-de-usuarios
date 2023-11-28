@@ -1,0 +1,16 @@
+.updateBackground{
+  background-image: url("../../../../public/img/imgupdate.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+.card{
+  width: 500px;
+  background-color: rgba(255, 253, 253, 0.621);
+  padding: 20px;
+  border-radius: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

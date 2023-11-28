@@ -1,0 +1,13 @@
+.usersBackground{
+  background-image: url("../../../public/img/imgusers.jpeg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.card{
+  min-width: 1000px;
+  background-color: rgba(255, 253, 253, 0.497);
+  border-radius: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
