@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Cadastro de usuários
 
-First, run the development server:
+Projeto criado para simulação de uma página home de algum jogo e seu cadastro de usuários
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Descrição
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Projeto feito apenas com frontend, praticando Next, Css, Sass e Bootstrap. 
+## Funcionalidades
+-Adicionar, atualizar e remover usuários (localStorage)
+-Visualização dos usuários
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias utilizadas
 
-## Learn More
+- Javascript
+- HTML
+- CSS
+- Next
+- Tailwindcss
+## Inicialização
+Utilizando as tecnologias citadas, Precisamos instalar algumas bibliotecas: 
 
-To learn more about Next.js, take a look at the following resources:
+    "autoprefixer": "10.4.15",
+    "next": "13.4.19",
+    "postcss": "8.4.28",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3"
+    
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Editor de códigos usado visual studio code, inicialização com o comando npm run dev
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
